@@ -1,0 +1,3 @@
+D:/DESKTOP/Career/Finished Projects for Github/C/GCD & LCM/cmake-build-debug/CMakeFiles/assignment1.dir
+D:/DESKTOP/Career/Finished Projects for Github/C/GCD & LCM/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DESKTOP/Career/Finished Projects for Github/C/GCD & LCM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
