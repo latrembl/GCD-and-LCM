@@ -1,4 +1,4 @@
-# Install script for directory: D:/DESKTOP/Career/Finished Projects for Github/C/GCD & LCM
+# Install script for directory: D:/DESKTOP/Github Repositories/Completed/C/GCD and LCM
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/DESKTOP/Career/Finished Projects for Github/C/GCD & LCM/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/DESKTOP/Github Repositories/Completed/C/GCD and LCM/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

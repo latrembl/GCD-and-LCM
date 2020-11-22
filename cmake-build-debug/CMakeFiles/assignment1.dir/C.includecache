@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/DESKTOP/Github Repositories/Completed/C/GCD and LCM/main.c
+stdio.h
+-
+warmup.latrembl.c
+D:/DESKTOP/Github Repositories/Completed/C/GCD and LCM/warmup.latrembl.c
+
+D:/DESKTOP/Github Repositories/Completed/C/GCD and LCM/warmup.latrembl.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+warmup.latrembl.h
+D:/DESKTOP/Github Repositories/Completed/C/GCD and LCM/warmup.latrembl.h
+
+D:/DESKTOP/Github Repositories/Completed/C/GCD and LCM/warmup.latrembl.h
+
